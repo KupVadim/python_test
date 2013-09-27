@@ -1,4 +1,5 @@
-python_test
+Изучаю python
 ===========
 
-Python study
+#FlaskTest
+Тестовый проект на фласк. Минимум функционала.
